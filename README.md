@@ -24,9 +24,42 @@ NeoCanvas is a modern Streamlit-based AI creative studio that helps you generate
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/khadija-099/neo-canvas.git
-cd neo-canvas```
+cd neo-canvas
+```
 
 
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 3. Configure API Key
+
+Create a `.env` file in the project root and add your API key:
+
+```bash
+BRIA_API_KEY=your_api_key_here
+```
+
+### 4. Run the App
+
+```bash
+streamlit run app.py
+```
+
+## 💡 How to Use
+
+1. **Enter your product description** or **upload a product image**.  
+2. Adjust generation settings in the sidebar:  
+   - ✅ Enhance prompt with AI  
+   - 🧹 Enable background removal  
+   - 🌤️ Add realistic shadows  
+   - 🏡 Generate lifestyle compositions  
+   - ⚙️ Customize advanced settings (shadow intensity, color tone, etc.)  
+3. Click **"Generate Visual"** to create your output.  
+4. **Download** or **refine** the results as needed.  
+
+
+## 🧾 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
