@@ -22,9 +22,9 @@ NeoCanvas is a modern Streamlit-based AI creative studio that helps you generate
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-bash
+```bash
 git clone https://github.com/khadija-099/neo-canvas.git
-cd neo-canvas
+cd neo-canvas```
 
 
 ### 2. Install Dependencies
