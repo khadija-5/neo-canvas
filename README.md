@@ -60,6 +60,14 @@ streamlit run app.py
 4. **Download** or **refine** the results as needed.  
 
 
+## 🚀 Deployment (Streamlit Cloud)
+
+This application is deployed and hosted on **Streamlit Community Cloud**.
+
+**Live Demo:** https://neo-canvas-app-d4xcxnars7nzagsk4ub3xa.streamlit.app/
+
+
+
 ## 🧾 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
