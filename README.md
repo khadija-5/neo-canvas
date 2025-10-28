@@ -2,7 +2,7 @@
 
 *“Design smarter. Create faster. Powered by AI.”*  
 
-NeoCanvas is a modern Streamlit-based AI creative studio that helps you generate professional-quality product visuals — from HD renders to lifestyle scenes — using advanced image generation APIs.
+NeoCanvas is a modern Streamlit-based AI creative studio that helps you generate professional quality product visuals from HD renders to lifestyle scenes using advanced image generation APIs.
 
 ---
 
